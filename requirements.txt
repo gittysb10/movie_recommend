@@ -1,5 +1,5 @@
 pip>=23.1
 wheel
 streamlit
-numpy==1.25.2
+numpy==2.0.2
 requests
