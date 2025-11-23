@@ -1,4 +1,4 @@
-*.pkl
+similarity.pkl
 *.npz
 venv/
 .venv/
